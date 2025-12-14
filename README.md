@@ -35,4 +35,3 @@ The project is designed for educational purposes and aligns with modern cloud co
 
 ---
 
-## Repository Structure
